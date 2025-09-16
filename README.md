@@ -2,7 +2,9 @@
 ### `Solution Architect / Full Stack Developer`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kamil--kowalczyk-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamil-kowalczyk-33b675175/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Havystar-lightgrey?style=flat-square&logo=github)](https://github.com/Havystar)
+
 <a href="mailto:kamil.kowalczyk.dev@gmail.com"><img src="https://img.shields.io/badge/Email-kamil.kowalczyk.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 
 ---
